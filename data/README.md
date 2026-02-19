@@ -11,10 +11,3 @@ After downloading:
 2. Rename it to:
 
 sba_raw.csv
-
-Your folder structure should look like:
-
-loan-risk-optimization/
-│
-├── data/
-│   └── sba_raw.csv
