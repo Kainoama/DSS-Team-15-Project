@@ -11,7 +11,7 @@ After downloading:
 2. Rename it to: sba_raw.csv
 3. Inside notebook use:
 
-```
+```python
 from google.colab import files
 uploaded = files.upload()
 ```
