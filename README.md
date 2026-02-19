@@ -25,7 +25,7 @@ We integrate **Risk Prediction + Financial Modeling + Pricing Simulation** into 
 
 ---
 
-### 1️⃣ Predict Default Risk
+### 1. Predict Default Risk
 
 - Train ML models (XGBoost / Random Forest)  
 - Estimate **Probability of Default (PD)**  
@@ -37,7 +37,7 @@ We integrate **Risk Prediction + Financial Modeling + Pricing Simulation** into 
 
 ---
 
-### 2️⃣ Integrate Financial Logic
+### 2. Integrate Financial Logic
 
 We incorporate the SBA Government Guarantee into Expected Loss:
 
@@ -47,7 +47,7 @@ Net LGD = LGD × (1 − Guarantee%)
 
 ---
 
-### 3️⃣ Optimize Interest Rates
+### 3. Optimize Interest Rates
 
 We simulate interest rate scenarios and compute:
 
@@ -82,15 +82,6 @@ Our system transforms credit risk modeling into a **strategic pricing engine**:
 
 ---
 
-## 🛠 Tech Stack
-
-- Python (Pandas, Scikit-learn, XGBoost)  
-- SQL  
-- Financial Modeling  
-- Tableau  
-
----
-
 ## ⏱ 6-Week Execution Plan
 
 **Weeks 1–2:** Data Engineering & NAICS Grouping  
@@ -98,10 +89,3 @@ Our system transforms credit risk modeling into a **strategic pricing engine**:
 **Week 4:** Financial Integration (SBA Guarantee)  
 **Week 5:** Dashboard Development  
 **Week 6:** Strategy Validation & Final Presentation  
-
----
-
-## 🚀 Bottom Line
-
-We do not just predict who will default.  
-We determine **how to price risk to maximize profit.**
