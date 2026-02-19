@@ -1,4 +1,4 @@
-# 💰 ML-Based Loan Risk & Pricing Optimization System
+# ML-Based Loan Risk & Pricing Optimization System
 
 A machine learning–driven decision support system that predicts borrower default risk and determines the **profit-maximizing interest rate** using SBA 7(a) loan data.
 
@@ -7,19 +7,19 @@ A machine learning–driven decision support system that predicts borrower defau
 
 ---
 
-## 🎯 The Problem
+##  ⚠️  The Problem
 
 Banks face a fundamental trade-off:
 
-- 📈 Higher interest rates increase revenue  
-- ⚠️ Higher rates also increase default risk and customer churn  
+- Higher interest rates increase revenue  
+- Higher rates also increase default risk and customer churn  
 
 Traditional credit models predict default —  
 but they **do not optimize pricing**.
 
 ---
 
-## 🧠 Our Approach
+## Our Approach
 
 We integrate **Risk Prediction + Financial Modeling + Pricing Simulation** into one unified system.
 
@@ -57,7 +57,7 @@ This identifies the **profit-maximizing “sweet spot” rate** by industry segm
 
 ---
 
-## 📊 Interactive Strategy Dashboard (Tableau)
+## Interactive Strategy Dashboard (Tableau)
 
 Designed for Credit & Strategy Teams:
 
@@ -71,7 +71,7 @@ Users can test rate changes and instantly see portfolio-level profit impact.
 
 ---
 
-## 🏆 Value Proposition
+## Value Proposition
 
 Our system transforms credit risk modeling into a **strategic pricing engine**:
 
@@ -84,8 +84,11 @@ Our system transforms credit risk modeling into a **strategic pricing engine**:
 
 ## ⏱ 6-Week Execution Plan
 
-**Weeks 1–2:** Data Engineering & NAICS Grouping  
-**Week 3:** PD Model Development  
-**Week 4:** Financial Integration (SBA Guarantee)  
-**Week 5:** Dashboard Development  
-**Week 6:** Strategy Validation & Final Presentation  
+| Week(s)   | Focus Area                                   | Key Output |
+|------------|----------------------------------------------|------------|
+| Weeks 1–2  | Data Engineering & NAICS Grouping            | Cleaned dataset with aggregated industry sectors |
+| Week 3     | PD Model Development                         | Trained ML model predicting Probability of Default |
+| Week 4     | Financial Integration (SBA Guarantee)        | Risk-adjusted Expected Loss & profit formula |
+| Week 5     | Dashboard Development                        | Interactive pricing & risk simulator (Tableau) |
+| Week 6     | Strategy Validation & Final Presentation     | Profit comparison vs. historical pricing |
+
