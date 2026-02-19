@@ -15,7 +15,7 @@ After downloading:
 from google.colab import files
 uploaded = files.upload()
 ```
-```
+```python
 import pandas as pd
 df = pd.read_csv("data/sba_raw.csv")
 ```
