@@ -11,9 +11,9 @@ After downloading:
 2. Rename it to: sba_raw.csv
 3. Inside notebook use:
 
-from google.colab import files
-uploaded = files.upload()
+#from google.colab import files
+#uploaded = files.upload()
 
-import pandas as pd
-df = pd.read_csv("data/sba_raw.csv")
+#import pandas as pd
+#df = pd.read_csv("data/sba_raw.csv")
 
