@@ -92,3 +92,9 @@ Our system transforms credit risk modeling into a **strategic pricing engine**:
 | Week 5     | Dashboard Development                        | Interactive pricing & risk simulator (Tableau) |
 | Week 6     | Strategy Validation & Final Presentation     | Profit comparison vs. historical pricing |
 
+---
+
+## Resources
+- **Data source:** U.S. Small Business Administration –  
+7(a) & 504 FOIA dataset: FOIA – 7(a) (FY2020-Present) as of 251231 (public domain),  
+https://data.sba.gov/en/dataset/7-a-504-foia/resource/d67d3ccb-2002-4134-a288-481b51cd3479 (accessed Month Day, Year). :contentReference[oaicite:1]{index=1}
