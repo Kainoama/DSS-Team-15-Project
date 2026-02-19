@@ -1,4 +1,4 @@
-# ML-Based Loan Risk & Pricing Optimization System
+# ML-Based Loan Risk & Pricing Optimization System Proposal
 
 A machine learning–driven decision support system that predicts borrower default risk and determines the **profit-maximizing interest rate** using SBA 7(a) loan data.
 
