@@ -95,12 +95,12 @@ Our system transforms credit risk modeling into a **strategic pricing engine**:
 ---
 ## Roles & Responsibilities
 
--Data Cleaning & Data Pre-Processing (Lohla)
--EDA (Sarah)
--Feature Engineering (Jocelyn)
--Model Training (Kainoa & Lohla)
--Evaluation (Jocelyn)
--Conclusion & Findings (Sarah/Kainoa)
+- Data Cleaning & Data Pre-Processing (Lohla)
+- EDA (Sarah)
+- Feature Engineering (Jocelyn)
+- Model Training (Kainoa & Lohla)
+- Evaluation (Jocelyn)
+- Conclusion & Findings (Sarah/Kainoa)
 
 ---
 ## Resources
