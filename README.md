@@ -93,7 +93,16 @@ Our system transforms credit risk modeling into a **strategic pricing engine**:
 | Week 6     | Strategy Validation & Final Presentation     | Profit comparison vs. historical pricing |
 
 ---
+## Roles & Responsibilities
 
+-Data Cleaning & Data Pre-Processing (Lohla)
+-EDA (Sarah)
+-Feature Engineering (Jocelyn)
+-Model Training (Kainoa & Lohla)
+-Evaluation (Jocelyn)
+-Conclusion & Findings (Sarah/Kainoa)
+
+---
 ## Resources
 - **Data source:** U.S. Small Business Administration –  
 7(a) & 504 FOIA dataset: FOIA – 7(a) (FY2020-Present) as of 251231 (public domain),  
